@@ -1,0 +1,12 @@
+bin/*
+*.egg-info
+.installed.cfg
+parts/*
+eggs/*
+develop-eggs/*
+*~
+*.pyc
+.DS_Store
+velouria.conf
+.coverage
+velouria.log
